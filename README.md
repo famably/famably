@@ -1,8 +1,6 @@
 <h1 align="center">Senior Software Engineer</h1>
 
-###
-
-<h2 align="center">Hi 👋!<br>Perfect Web & Blockchain Full Stack Developer is here.</h2>
+<h3 align="left">I’m a Senior Software Engineer focused on building reliable, scalable, and modern software. My work spans system design, full-stack development, cloud architecture, AI/ML workflows, and high-performance backend systems. I enjoy blending technologies like Rust, Python, TypeScript, React, Node.js, Postgres, Redis, Docker, Kubernetes, and blockchain to create fast, secure, and future-ready solutions. This GitHub is where I explore new ideas, ship polished projects, and keep pushing the boundaries of what great engineering can do.</h3>
 
 ###
 
@@ -59,8 +57,6 @@
 </div>
 
 ###
-
-<h3 align="left">Welcome to my GitHub profile! I'm a dedicated web and blockchain full stack developer with a passion for innovation. With expertise in both front-end and back-end development, I specialize in creating cutting-edge applications that leverage the power of web and blockchain technologies. Through my projects and contributions, I strive to deliver flawless digital experiences and push the boundaries of what is possible. From building interactive user interfaces to implementing secure and decentralized blockchain solutions, I am committed to delivering exceptional software solutions. Join me on this exciting journey as we explore the endless possibilities of web and blockchain development together.</h3>
 
 ###
 
