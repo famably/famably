@@ -1,6 +1,6 @@
 <h1 align="center">Senior Software Engineer</h1>
 
-<h3 align="left">I’m a Senior Software Engineer focused on building reliable, scalable, and modern software. My work spans system design, full-stack development, cloud architecture, AI/ML workflows, and high-performance backend systems. I enjoy blending technologies like Rust, Python, TypeScript, React, Node.js, Postgres, Redis, Docker, Kubernetes, and blockchain to create fast, secure, and future-ready solutions. This GitHub is where I explore new ideas, ship polished projects, and keep pushing the boundaries of what great engineering can do.</h3>
+<h3 align="justify">I’m a Senior Software Engineer focused on building reliable, scalable, and modern software. My work spans system design, full-stack development, cloud architecture, AI/ML workflows, and high-performance backend systems. I enjoy blending technologies like Rust, Python, TypeScript, React, Node.js, Postgres, Redis, Docker, Kubernetes, and blockchain to create fast, secure, and future-ready solutions. This GitHub is where I explore new ideas, ship polished projects, and keep pushing the boundaries of what great engineering can do.</h3>
 
 ###
 
